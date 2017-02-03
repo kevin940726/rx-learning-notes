@@ -1,4 +1,4 @@
-# rx-learning-notes
+# rxjs-learning-notes
 Personal learning notes for RxJS.
 
 ## Links
