@@ -10,4 +10,4 @@ Personal learning notes for RxJS.
 - [staltz/rxjs-training](https://github.com/staltz/rxjs-training)
 
 ## API
-- [takeUntil](takeUntil.js)
+- [takeUntil](takeUntil.md)
